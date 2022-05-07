@@ -1,1 +1,1 @@
-https://github.com/arturssmirnovs/github-profile-readme-generator.git
+https://github.com/Florence/github-profile-readme-generator.git
