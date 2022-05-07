@@ -1,1 +1,1 @@
-https://Florence Rotich.github.io/github-profile-readme-generator/
+https://Florence.github.io/github-profile-readme-generator/
